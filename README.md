@@ -1,4 +1,4 @@
-# 🐦 Twitter Sentiment Analysis using Logistic Regression
+# 😊😢😐Twitter Sentiment Analysis using Logistic Regression
 
 ## 📘 Project Overview
 This project classifies tweets as **positive** or **negative** based on their text content.  
