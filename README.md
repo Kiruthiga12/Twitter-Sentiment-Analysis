@@ -81,7 +81,7 @@ To build a simple and effective sentiment analysis model that can understand the
 ## 📊 Results
 | Dataset | Accuracy |
 |----------|-----------|
-| Training Data | *Displayed in code output* |
-| Testing Data | *Displayed in code output* |
+| Training Data | *79%* |
+| Testing Data | *77%* |
 
 ---
